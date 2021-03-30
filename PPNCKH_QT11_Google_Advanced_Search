@@ -1,0 +1,87 @@
+#1. Tìm kiếm Cụm từ chính xác
+Giả sử bạn đang tìm kiếm trên Google về nội dung về hướng dẫn làm seo web. Thay vì chỉ gõ hướng dẫn làm seo web vào hộp tìm kiếm của Google, có thể sẽ tốt hơn khi tìm kiếm một cách rõ ràng với cụm từ. Để thực hiện việc này, chỉ cần đưa cụm từ tìm kiếm vào dấu nháy kép “”.
+
+Ví dụ tìm kiếm:  "hướng dẫn làm seo web " 
+
+#2. Loại trừ Từ
+Giả sử bạn muốn tìm kiếm nội dung về inbound marketing, nhưng bạn muốn loại trừ bất kỳ kết quả nào có chứa advertising theo cụm từ. Để làm điều này, bạn chỉ cần sử dụng dấu - ở phía trước của từ mà bạn muốn loại trừ.
+
+Ví dụ tìm kiếm:  inbound marketing -advertising 
+
+#3. This OR That
+Mặc định, khi bạn thực hiện tìm kiếm, Google sẽ bao gồm tất cả các điều kiện (terms) được chỉ định trong tìm kiếm. Nếu bạn đang tìm kiếm bất kỳ từ nào trong một hoặc nhiều cụm từ cần khớp (match), thì bạn có thể sử dụng toán tử OR. (Lưu ý: OR phải được viết hoa).
+
+Ví dụ tìm kiếm: inbound marketing OR advertising 
+
+#4. Các từ trong văn bản
+Nếu bạn muốn tìm một trang web nơi mà tất cả các cụm từ bạn đang tìm kiếm xuất hiện trong văn bản của trang đó (nhưng không nhất thiết cạnh nhau), nhập vào allintext: theo sau ngay bằng từ hoặc cụm từ.
+
+Ví dụ Tìm kiếm: allintext:Quy trình SEO 
+
+#5. Các từ trong Text + Tiêu đề, URL
+Nếu bạn muốn tìm một trang web có một cụm từ xuất hiện trong văn bản của trang đó và một thuật ngữ khác xuất hiện ở nơi khác trên trang, như Title hoặc URL, sau đó nhập cụm từ đầu tiên đó theo sau bởi intext: theo sau ngay bằng từ khác.
+
+Ví dụ Tìm kiếm: neil diamond intext:red sox 
+
+#6. Tìm Các từ trong Title (Tiêu đề)
+Bạn muốn tìm một trang web với những từ nhất định có trong tiêu đề (nhưng không nhất thiết phải cạnh nhau)? Nhập allintitle: ngay sau đó bằng từ hoặc cụm từ.
+
+Ví dụ Tìm kiếm: allintitle:wine club 
+
+#7. Các từ trong Title + Text, URL
+Bạn muốn tìm một trang web có một từ xuất hiện trong tiêu đề của trang đó và một thuật ngữ khác xuất hiện ở nơi khác trên trang, như trong văn bản hoặc URL? Nhập từ đầu tiên đó theo sau bởi intitle: ngay sau đó là từ khác.
+
+Ví dụ tìm kiếm: flu shot intitle:advise 
+
+#8. Tìm kiếm Các từ trong URL
+Nếu bạn muốn tìm các trang có truy vấn tìm kiếm được đề cập trong URL, hãy nhập allinurl: ngay sau đó là truy vấn tìm kiếm của bạn.
+
+Tìm kiếm ví dụ: allinurl:blog hubspot 
+
+#9. Cách tìm kiếm trong một trang web
+Thông thường, bạn muốn tìm kiếm một trang web cụ thể cho nội dung phù hợp với cụm từ nhất định. Ngay cả khi trang web không hỗ trợ tính năng tìm kiếm, bạn có thể sử dụng Google để tìm kiếm trang web cho cụm từ của bạn. Đơn giản chỉ cần sử dụng site: somesite.com. 
+
+Ví dụ Tìm kiếm: site:seothetop.com "tài liệu học seo" 
+
+#10. Tìm kiếm có liên quan
+Nếu bạn muốn tìm các trang web mới có nội dung tương tự với một trang web bạn đã biết, hãy sử dụng related: somesite.com. Tìm những trang liên quan để xác định những trang cùng lĩnh vực để có kế hoạch SEO như tìm hiểu cách làm, liên hệ viết bài trên mục blog để xây dựng backlink.
+
+Ví dụ tìm kiếm: related: lichngaytot.com 
+
+
+#11. Một Trang Kết Nối tới Trang Khác (Page that links to another page)
+Giả sử bạn muốn tìm kiếm mọi trang web trích dẫn BuzzFeed   Trên trang web của họ. Để làm điều này, sử dụng link: command, ngay sau đó là tên của một trang. Google sẽ cung cấp cho bạn tất cả các trang liên kết tới trang web chính thức của BuzzFeed. Địa chỉ URL cụ thể hơn, bạn sẽ nhận được ít kết quả hơn.
+
+Ví dụ Tìm kiếm: link:buzzfeed 
+
+#12. Các từ và từ đồng nghĩa
+Giả sử bạn muốn bao gồm một từ trong tìm kiếm của mình nhưng cũng muốn bao gồm các kết quả có chứa các từ tương tự hoặc từ đồng nghĩa. Để làm điều này, sử dụng ~ ở phía trước của từ.
+
+Ví dụ Tìm kiếm: "inbound marketing" ~ professional 
+
+#13. Định nghĩa của từ
+Nếu bạn cần phải nhanh chóng tìm kiếm định nghĩa của từ hoặc cụm từ, chỉ cần sử dụng lệnh define: command. Bạn có thể nghe phát âm của từ bằng cách nhấn vào biểu tượng megaphone.
+
+Ví dụ Tìm kiếm: define: plethora
+
+
+#14. Thiếu Từ (Missing word)
+Khi nào quên một hoặc hai từ cụm từ cụ thể, bài hát lyric, trích dẫn phim, hay cái gì khác? Bạn có thể sử dụng dấu hoa thị * làm ký tự đại diện, có thể giúp bạn tìm thấy từ thiếu trong một cụm từ.
+
+Ví dụ Tìm kiếm: much  * about nothing
+
+#15. Tin tức trong một Vị trí cụ thể
+Nếu bạn đang tìm kiếm tin tức liên quan đến một vị trí cụ thể, bạn có thể sử dụng location:command để tìm kiếm Google Tin tức cho những câu chuyện đến từ vị trí đó.
+
+Tìm kiếm Ví dụ: star wars location:london 
+
+#16. Tìm Loại file tài liệu cụ thể
+Nếu bạn đang tìm kiếm để tìm kết quả thuộc loại file cụ thể, bạn có thể sử dụng filetype:. Ví dụ: bạn có thể chỉ muốn tìm các bài thuyết trình PowerPoint có liên quan inbound marketing.
+
+Ví dụ tìm kiếm: "inbound marketing" filetype: ppt 
+
+
+#17. Máy Tính
+Bạn cần thực hiện tính toán nhanh, thay vì đưa một applet Calculator, bạn chỉ có thể nhập biểu thức của bạn vào Google.
+
+Ví dụ tìm kiếm:  48512 * 1,02
