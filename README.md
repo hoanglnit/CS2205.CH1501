@@ -9,4 +9,7 @@ Võ Bá Duẫn <br/>
 MSHV: CH2002005 - K15 - CNTT <br/>
 Mobile: 0935501646 <br/>
 
-bo sung them cua Bao <br/>
+Trần Văn Bảo - CH2002028, K.15, CNTT
+* Sở thích: Chơi game, nghiên cứu khoa học
+* Quan tâm: AI, Network security, IoTs
+* Respo: https://github.com/baotrv/CS2205.CH1501 <br/>
