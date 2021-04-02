@@ -1,6 +1,6 @@
-#Phần Mềm Mendeley Desktop
+# Phần Mềm Mendeley Desktop
 
-##Lý do chọn phần mềm
+## Lý do chọn phần mềm
 1. Đây là một phần mềm miễn phí được hãng cập nhập thường xuyên.
 2. Mendeley Desktop ứng dụng công nghệ điện toán đám mây để quản lý và lưu trữ dữ liệu, vì vậy
 những gì bạn làm trên Mendeley Desktop sẽ được đồng bộ và lưu trữ online trên server của
