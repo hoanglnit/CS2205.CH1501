@@ -1,0 +1,4 @@
+Vào trang paperwithcode.com
+Search chủ để có code để thử nghiệm. Ví dụ "human detection"
+"Greatest papers with code" với chủ đề sẽ được list ra theo thứ tự đánh giá cao đến thấp. Lưu ý một số code mới được update sẽ có lượt đánh giá ít hơn code cũ nên việc lựa chọn phải theo cả thời gian. Ví dụ ta chọn "Detect-and-Track: Efficient Pose Estimation in Videos"
+Trong này sẽ có mô tả về paper, tập dataset lựa chọn và có hướng dẫn chi tiết cài đặt và sử dụng. Ví dụ paper sẽ là https://arxiv.org/pdf/1712.09184v2.pdf , dataset  dùng có thể là  COCO  UCF101  MOT16  HICO  PoseTrack, và github là https://github.com/facebookresearch/DetectAndTrack.
