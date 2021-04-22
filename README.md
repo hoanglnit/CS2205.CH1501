@@ -7,7 +7,7 @@ https://www.facebook.com/hoang.le.nguyen <br/>
 
 Võ Bá Duẫn <br/>
 MSHV: CH2002005 - K15 - CNTT <br/>
-Mobile: 0935501646 <br/>
+
 
 Trần Văn Bảo - CH2002028, K.15, CNTT
 * Sở thích: Chơi game, nghiên cứu khoa học
