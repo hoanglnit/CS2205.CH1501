@@ -5,7 +5,7 @@ Sở thích: Giao lưu, học hỏi, nghiên cứu Công nghệ <br/>
 Quan tâm: Công nghệ Thông tin, Hệ thống thông tin, An toàn thông tin - tập trung vào ứng dụng công  <br/>
 https://www.facebook.com/hoang.le.nguyen <br/>
 
-Võ Bá Duẫn <br/>
+Võ Bá Duẩn <br/>
 MSHV: CH2002005 - K15 - CNTT <br/>
 
 
