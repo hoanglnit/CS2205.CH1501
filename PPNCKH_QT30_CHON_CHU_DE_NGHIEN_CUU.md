@@ -23,4 +23,7 @@
 - Towards Fast, Accurate and Stable 3D Dense Face Alignment
 
 4. Các bài toán nghiên cứu là gì?
-- Nghiên cứu thuật toán Tinaface và ứng dụng vào hệ thống chấm công
+- Re-identification of Humans in Crowds using Personal, Social and Environmental Constraints
+- Detecting Humans in Dense Crowd Images
+- Improving an Object Detector and Extracting Regions using Superpixel
+- Part-based Multiple-Person Tracking
