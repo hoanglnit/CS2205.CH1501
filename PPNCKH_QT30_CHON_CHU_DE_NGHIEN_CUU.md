@@ -6,5 +6,7 @@ Computer vision
 - International Conference on Machine Learning, ICML
 - IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops
 3. Các chủ đề nghiên cứu (research topic) là gì
-
+-Face Recognization
+- Face Detection
 4. Các bài toán nghiên cứu là gì?
+- Nghiên cứu thuật toán Tinaface và ứng dụng vào hệ thống chấm công
