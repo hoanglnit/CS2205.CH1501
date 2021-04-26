@@ -1,10 +1,19 @@
 1. Lĩnh vực nghiên cứu (research area) là gì?
 - Computer vision
 
-2. Các hội nghị tạp chí quan trọng là gì? 
-- IEEE Conference on Computer Vision and Pattern Recognition
-- International Conference on Machine Learning, ICML
-- IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops
+2. Các hội nghị tạp chí quan trọng là gì?
+* Conference
+- CVPR : IEEE/CVF Conference on Computer Vision and Pattern Recognition
+- ICCV : IEEE/CVF International Conference on Computer Vision
+- ECCV : European Conference on Computer Vision
+- IROS : IEEE/RSJ International Conference on Intelligent Robots and Systems
+- WACV : Winter Conference on Applications of Computer Vision
+- ICIP : IEEE International Conference on Image Processing
+* Journal
+- Proceedings of the IEEE International Conference on Computer Vision
+- Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition
+- IEEE Transactions on Pattern Analysis and Machine Intelligence
+- International Journal of Computer Vision
 
 3. Các chủ đề nghiên cứu (research topic) là gì
 - Face Recognization
