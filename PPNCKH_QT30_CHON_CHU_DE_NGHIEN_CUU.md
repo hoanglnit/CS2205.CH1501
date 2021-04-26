@@ -16,11 +16,7 @@
 - International Journal of Computer Vision
 
 3. Các chủ đề nghiên cứu (research topic) là gì
-- Rethinking the Inception Architecture for Computer Vision
-- Longitudinal Study of Child Face Recognition
-- FaceNet: A Unified Embedding for Face Recognition and Clustering
-- Fawkes: Protecting Privacy against Unauthorized Deep Learning Models
-- Towards Fast, Accurate and Stable 3D Dense Face Alignment
+- Face detection
 
 4. Các bài toán nghiên cứu là gì?
 - Re-identification of Humans in Crowds using Personal, Social and Environmental Constraints
