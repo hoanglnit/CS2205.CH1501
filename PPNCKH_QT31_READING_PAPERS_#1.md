@@ -7,7 +7,7 @@
   
 2. Các câu hỏi đặt ra là gì? Đã giải quyết được đến đâu?
 
- + Các phương pháp này không tận dụng được hết cấu trúc video và thường dẫn đến kết quả phân đoạn cảnh quay không đúng. Sự phân đoạn không chính xác gây ra hỗn loạn thông tin, tức là mất thông tin của một cảnh quay nhất định và hỗn hợp thông tin của một số cảnh quay liền kề, làm hỏng tính toàn vẹn và độc lập của các hoạt động trong video.
+ + Các phương pháp hiện  không tận dụng được hết cấu trúc video và thường dẫn đến kết quả phân đoạn cảnh quay không đúng. Sự phân đoạn không chính xác gây ra hỗn loạn thông tin, tức là mất thông tin của một cảnh quay nhất định và hỗn hợp thông tin của một số cảnh quay liền kề, làm hỏng tính toàn vẹn và độc lập của các hoạt động trong video.
  (Phương pháp Long Single LSTM)
  
  + Để cải tiến khắc phục các vấn đề trên, Nhóm phát minh ra trượt 2 chiều (sliding bidirectional LSTM) sử dụng Hierarchical Structure-Adaptive RNN (HSA-RNN) có thể cùng khai thác cấu trúc video và tóm tắt nội dung video.
